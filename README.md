@@ -2,8 +2,6 @@
 
 #### Passionate about Coding and Problem Solving with interest in Web Developement and Machine Learning related fields.
 
-![Passionate about Coding and Problem Solving with interest in Web Developement and Machine Learning related fields.]()
-
 I am currently a final year undergrad of Electrical Engineering at Jadavpur University and I am interested in the various fields related to Web Developement, Machine Learning and Deep Learning.
 
 # About Me
