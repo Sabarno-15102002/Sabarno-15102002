@@ -49,7 +49,8 @@ I am currently a final year undergrad of Electrical Engineering at Jadavpur Univ
 
 # Contact me
 
-[](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)(https://github.com/Sabarno-15102002) [](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/sabarno-biswas-3163a61ba/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sabarno-15102002)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabarno-biswas-3163a61ba/)
 
 # My Profile Stats
 
