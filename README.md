@@ -2,13 +2,13 @@
 
 #### Passionate about Coding and Problem Solving with interest in Web Developement and Machine Learning related fields.
 
-I am currently a final year undergrad of Electrical Engineering at Jadavpur University and I am interested in the various fields related to Web Developement, Machine Learning and Deep Learning.
+I am currently a Software Developer at Airbus India. I have completed my Bachelor's in Electrical Engineering from Jadavpur University. I am interested in the various fields related to Web Developement, Machine Learning and Deep Learning.
 
 # About Me
 
 - 🔭 I’m currently working on Web Developement Projects.
 - 🌱 I’m currently learning Deep Learning and related fields.
-- 👯 I’m looking to collaborate on MERN stack based projects.
+- 👯 I’m looking to collaborate on MERN stack and Spring Boot framework based projects.
 - 📫 How to reach me: sabarnobiswas2002@gmail.com
 - 😄 Pronouns: He/Him
 
@@ -31,6 +31,15 @@ I am currently a final year undergrad of Electrical Engineering at Jadavpur Univ
 ![Logo](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Logo](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Logo](https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=React&logoColor=blue)
+![Logo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Logo](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Logo](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Logo](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white)
+![Logo](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Logo](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache%20maven&logoColor=white)
+![Logo](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 ![Logo](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black)
 ![Logo](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Logo](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -44,6 +53,7 @@ I am currently a final year undergrad of Electrical Engineering at Jadavpur Univ
 
 ![Logo](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Logo](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Logo](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 # Contact me
 
